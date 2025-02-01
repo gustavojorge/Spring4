@@ -17,7 +17,10 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          leading: Icon(Icons.check_circle_outline_outlined, color: Colors.white,),
+          leading: Icon(
+            Icons.check_circle_outline_outlined,
+            color: Colors.white,
+          ),
           title: Text(
             "Flutter: Primeiros Passos",
             style: TextStyle(color: Colors.white),
@@ -68,17 +71,39 @@ class Block extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Container(
-            color: color1,
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(
+                color: Colors.black,
+                width: 4,
+              ),
+              color: color1,
+            ),
             width: 110,
             height: 150,
           ),
           Container(
-            color: color2,
+            child: Icon(Icons.person_2),
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(
+                color: Colors.black,
+                width: 4,
+              ),
+              color: color2,
+            ),
             width: 110,
             height: 150,
           ),
           Container(
-            color: color3,
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(
+                color: Colors.black,
+                width: 4,
+              ),
+              color: color3,
+            ),
             width: 110,
             height: 150,
           )
