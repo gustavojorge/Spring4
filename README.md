@@ -1,6 +1,6 @@
-# Atividade referente a Sprint4 - "Inserindo imagens e animações".
+# Atividade referente a Sprint4 - "Aplicando boas práticas".
 
-Segue a atividade abaixo do projeto de Todo List que foi feita durante as aulas. Agora, com imagens e animações.
+Segue a atividade abaixo do projeto de Todo List que foi feita durante as aulas. Agora, **refatorado e com efeito de 'concluído'**.
 
 - Primeira Versão:
 
@@ -9,3 +9,7 @@ Segue a atividade abaixo do projeto de Todo List que foi feita durante as aulas.
 - Segunda versão:
 
 ![img_1.png](img_1.png)
+
+- Terceira versão:
+
+![img_3.png](img_3.png)
