@@ -12,4 +12,4 @@ Segue a atividade abaixo do projeto de Todo List que foi feita durante as aulas.
 
 - Terceira versão:
 
-![img_5.png](img_5.png)
+![img_6.png](img_6.png)
